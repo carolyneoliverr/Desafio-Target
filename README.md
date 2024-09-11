@@ -11,7 +11,7 @@ Este programa verifica se um número pertence à sequência de Fibonacci. A sequ
 1. Clone o repositório:
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
-2.Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 cd Desafio-Target
 3.Execute o programa:
 python fibonacci.py
@@ -43,9 +43,9 @@ Este programa calcula o valor da variável SOMA após executar um loop específi
 1. Clone o repositório:
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
-2.Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 cd Desafio-Target
-3.Execute o programa:
+3. Execute o programa:
 python soma.py
 
 
@@ -76,8 +76,10 @@ Solução:
 Para descobrir qual interruptor controla qual lâmpada em duas idas, você pode seguir estes passos:
 
 Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+
 Desligue o primeiro interruptor e ligue o segundo interruptor.
-Vá até a sala das lâmpadas:
-A lâmpada que estiver acesa é controlada pelo segundo interruptor.
-A lâmpada que estiver quente (mas não acesa) é controlada pelo primeiro interruptor.
-A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
+
+   Vá até a sala das lâmpadas:
+   A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+   A lâmpada que estiver quente (mas não acesa) é controlada pelo primeiro interruptor.
+   A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
