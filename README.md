@@ -16,11 +16,12 @@ cd tarefas-programacao
 Execute o programa:
 python fibonacci.py
 Insira um número quando solicitado.
-Tarefa 2: Contar Letras 'a' em uma String
+
+## Tarefa 2: Contar Letras 'a' em uma String
 Descrição
 Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em uma string fornecida pelo usuário.
 
-Como Executar
+### Como Executar
 Clone o repositório:
 git clone https://github.com/carolyneoliverr/tarefas-programacao.git
 Navegue até o diretório do projeto:
@@ -28,18 +29,22 @@ cd tarefas-programacao
 Execute o programa:
 python contar_letras_a.py
 Insira uma string quando solicitado.
-Tarefa 3: Valor da Variável SOMA
+
+
+## Tarefa 3: Valor da Variável SOMA
 Descrição
 Este programa calcula o valor da variável SOMA após executar um loop específico.
 
-Como Executar
+### Como Executar
 Clone o repositório:
 git clone https://github.com/carolyneoliverr/tarefas-programacao.git
 Navegue até o diretório do projeto:
 cd tarefas-programacao
 Execute o programa:
 python soma.py
-Tarefa 4: Descubra a Lógica e Complete o Próximo Elemento
+
+
+## Tarefa 4: Descubra a Lógica e Complete o Próximo Elemento
 Descrição
 Esta tarefa envolve descobrir a lógica de várias sequências numéricas e completar o próximo elemento.
 
@@ -50,7 +55,8 @@ c) 0, 1, 4, 9, 16, 25, 36, 49
 d) 4, 16, 36, 64, 100
 e) 1, 1, 2, 3, 5, 8, 13
 f) 2, 10, 12, 16, 17, 18, 19, 200
-Tarefa 5: Descobrir Qual Interruptor Controla Qual Lâmpada
+
+## Tarefa 5: Descobrir Qual Interruptor Controla Qual Lâmpada
 Descrição
 Esta tarefa envolve descobrir qual interruptor controla qual lâmpada em duas idas até a sala das lâmpadas.
 
