@@ -52,19 +52,24 @@ python soma.py
 ### Descrição
 Esta tarefa envolve descobrir a lógica de várias sequências numéricas e completar o próximo elemento.
 
-Soluções
+Soluções:
 a) 1, 3, 5, 7, 9
+
 b) 2, 4, 8, 16, 32, 64, 128
+
 c) 0, 1, 4, 9, 16, 25, 36, 49
+
 d) 4, 16, 36, 64, 100
+
 e) 1, 1, 2, 3, 5, 8, 13
+
 f) 2, 10, 12, 16, 17, 18, 19, 200
 
 ## Tarefa 5: Descobrir Qual Interruptor Controla Qual Lâmpada
 ### Descrição
 Esta tarefa envolve descobrir qual interruptor controla qual lâmpada em duas idas até a sala das lâmpadas.
 
-Solução
+Solução:
 Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
 Desligue o primeiro interruptor e ligue o segundo interruptor.
 Vá até a sala das lâmpadas:
