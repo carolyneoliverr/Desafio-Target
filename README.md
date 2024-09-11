@@ -39,8 +39,9 @@ Descrição
 Este programa calcula o valor da variável SOMA após executar um loop específico.
 
 ### Como Executar
-Clone o repositório:
-git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
 Navegue até o diretório do projeto:
 cd tarefas-programacao
 Execute o programa:
