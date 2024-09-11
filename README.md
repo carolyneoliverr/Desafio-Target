@@ -10,7 +10,7 @@ Este programa verifica se um número pertence à sequência de Fibonacci. A sequ
 ### Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+   git clone https://github.com/carolyneoliverr/Desafio-Target.git
 Navegue até o diretório do projeto:
 cd tarefas-programacao
 Execute o programa:
@@ -24,7 +24,7 @@ Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em u
 ### Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+   git clone https://github.com/carolyneoliverr/Desafio-Target.git
 2. Navegue até o diretório do projeto:
 cd tarefas-programacao
 3. Execute o programa: 
@@ -41,7 +41,7 @@ Este programa calcula o valor da variável SOMA após executar um loop específi
 ### Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+   git clone https://github.com/carolyneoliverr/Desafio-Target.git
 Navegue até o diretório do projeto:
 cd tarefas-programacao
 Execute o programa:
