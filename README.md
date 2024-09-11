@@ -22,12 +22,16 @@ Descrição
 Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em uma string fornecida pelo usuário.
 
 ### Como Executar
-Clone o repositório:
-git clone https://github.com/carolyneoliverr/tarefas-programacao.git
-Navegue até o diretório do projeto:
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+2. Navegue até o diretório do projeto:
+   ```sh
 cd tarefas-programacao
-Execute o programa:
+3. Execute o programa: 
 python contar_letras_a.py
+
+
 Insira uma string quando solicitado.
 
 
