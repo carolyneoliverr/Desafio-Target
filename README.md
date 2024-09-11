@@ -1,88 +1,63 @@
 # Tarefas de Programação
 
-Este repositório contém soluções para diversas tarefas de programação. Cada tarefa é implementada em um arquivo Python separado.
+Este repositório contém soluções para várias tarefas de programação. Abaixo estão as descrições das tarefas e como executar os programas.
 
-## Tarefas
+## Tarefa 1: Sequência de Fibonacci
 
-### Tarefa 1: Sequência de Fibonacci
+### Descrição
+Este programa verifica se um número pertence à sequência de Fibonacci. A sequência de Fibonacci começa com 0 e 1, e cada número subsequente é a soma dos dois anteriores.
 
-Este programa verifica se um número pertence à sequência de Fibonacci.
-
-**Arquivo:** `fibonacci.py`
-
-**Como Executar:**
-```sh
+### Como Executar
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+Navegue até o diretório do projeto:
+cd tarefas-programacao
+Execute o programa:
 python fibonacci.py
+Insira um número quando solicitado.
 Tarefa 2: Contar Letras 'a' em uma String
-Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em uma string.
+Descrição
+Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em uma string fornecida pelo usuário.
 
-Arquivo: contar_letras_a.py
-
-Como Executar:
-
+Como Executar
+Clone o repositório:
+git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+Navegue até o diretório do projeto:
+cd tarefas-programacao
+Execute o programa:
 python contar_letras_a.py
+Insira uma string quando solicitado.
 Tarefa 3: Valor da Variável SOMA
-Este trecho de código calcula o valor da variável SOMA após um loop.
+Descrição
+Este programa calcula o valor da variável SOMA após executar um loop específico.
 
-Arquivo: Não há arquivo específico, a análise está documentada aqui.
-
+Como Executar
+Clone o repositório:
+git clone https://github.com/carolyneoliverr/tarefas-programacao.git
+Navegue até o diretório do projeto:
+cd tarefas-programacao
+Execute o programa:
+python soma.py
 Tarefa 4: Descubra a Lógica e Complete o Próximo Elemento
-A lógica para completar as sequências está documentada aqui.
+Descrição
+Esta tarefa envolve descobrir a lógica de várias sequências numéricas e completar o próximo elemento.
 
+Soluções
+a) 1, 3, 5, 7, 9
+b) 2, 4, 8, 16, 32, 64, 128
+c) 0, 1, 4, 9, 16, 25, 36, 49
+d) 4, 16, 36, 64, 100
+e) 1, 1, 2, 3, 5, 8, 13
+f) 2, 10, 12, 16, 17, 18, 19, 200
 Tarefa 5: Descobrir Qual Interruptor Controla Qual Lâmpada
-A solução para descobrir qual interruptor controla qual lâmpada está documentada aqui.
+Descrição
+Esta tarefa envolve descobrir qual interruptor controla qual lâmpada em duas idas até a sala das lâmpadas.
 
-Como Executar os Programas
-Clone o Repositório:
-git clone https://github.com/seu-usuario/tarefas.git
-cd tarefas
-Execute os Programas:
-Para verificar se um número pertence à sequência de Fibonacci:
-python fibonacci.py
-Para contar letras 'a' em uma string:
-python contar_letras_a.py
-Contribuição
-Sinta-se à vontade para contribuir com melhorias ou novas tarefas. Abra uma issue ou envie um pull request.
-
-Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-Email: seu-email@example.com
-GitHub: seu-usuario
-
-### Estrutura do Repositório
-
-Certifique-se de que a estrutura do seu repositório esteja organizada da seguinte forma:
-tarefas/ │ ├── fibonacci.py ├── contar_letras_a.py ├── README.md └── LICENSE
-
-
-### Código dos Programas
-
-#### `fibonacci.py`
-
-```python
-def pertence_fibonacci(n):
-    a, b = 0, 1
-    while b < n:
-        a, b = b, a + b
-    return b == n
-
-numero = int(input("Informe um número: "))
-if pertence_fibonacci(numero):
-    print(f"O número {numero} pertence à sequência de Fibonacci.")
-else:
-    print(f"O número {numero} não pertence à sequência de Fibonacci.")
-contar_letras_a.py
-def contar_letras_a(string):
-    count = 0
-    for char in string:
-        if char.lower() == 'a':
-            count += 1
-    return count
-
-string = input("Informe uma string: ")
-quantidade = contar_letras_a(string)
-print(f"A string possui {quantidade} letras 'a'.")
+Solução
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas:
+A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+A lâmpada que estiver quente (mas não acesa) é controlada pelo primeiro interruptor.
+A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
