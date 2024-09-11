@@ -54,17 +54,17 @@ Esta tarefa envolve descobrir a lógica de várias sequências numéricas e comp
 
 Soluções:
 
-a) 1, 3, 5, 7, 9
+a) 1, 3, 5, 7, 9 (a sequência é de números ímpares)
 
-b) 2, 4, 8, 16, 32, 64, 128
+b) 2, 4, 8, 16, 32, 64, 128 (a sequência é de potências de 2)
 
-c) 0, 1, 4, 9, 16, 25, 36, 49
+c) 0, 1, 4, 9, 16, 25, 36, 49 (a sequência é de quadrados perfeitos: 0^2, 1^2, 2^2, 3^2, ...)
 
-d) 4, 16, 36, 64, 100
+d) 4, 16, 36, 64, 100 (a sequência é de quadrados dos números pares: 2^2, 4^2, 6^2, 8^2, ...)
 
-e) 1, 1, 2, 3, 5, 8, 13
+e) 1, 1, 2, 3, 5, 8, 13 (a sequência de Fibonacci)
 
-f) 2, 10, 12, 16, 17, 18, 19, 200
+f) 2, 10, 12, 16, 17, 18, 19, 200 (a sequência não apresenta uma lógica clara, mas se considerarmos que a sequência é de números crescentes com um salto inicial, podemos considerar que o próximo número seja 200)
 
 ## Tarefa 5: Descobrir Qual Interruptor Controla Qual Lâmpada
 ### Descrição
@@ -72,14 +72,11 @@ Esta tarefa envolve descobrir qual interruptor controla qual lâmpada em duas id
 
 Solução:
 
+Para descobrir qual interruptor controla qual lâmpada em duas idas, você pode seguir estes passos:
+
 Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
-
 Desligue o primeiro interruptor e ligue o segundo interruptor.
-
 Vá até a sala das lâmpadas:
-
 A lâmpada que estiver acesa é controlada pelo segundo interruptor.
-
 A lâmpada que estiver quente (mas não acesa) é controlada pelo primeiro interruptor.
-
 A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
