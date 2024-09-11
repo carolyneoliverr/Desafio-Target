@@ -11,10 +11,11 @@ Este programa verifica se um número pertence à sequência de Fibonacci. A sequ
 1. Clone o repositório:
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
-Navegue até o diretório do projeto:
+2.Navegue até o diretório do projeto:
 cd Desafio-Target
-Execute o programa:
+3.Execute o programa:
 python fibonacci.py
+
 Insira um número quando solicitado.
 
 ## Tarefa 2: Contar Letras 'a' em uma String
@@ -42,9 +43,9 @@ Este programa calcula o valor da variável SOMA após executar um loop específi
 1. Clone o repositório:
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
-Navegue até o diretório do projeto:
+2.Navegue até o diretório do projeto:
 cd Desafio-Target
-Execute o programa:
+3.Execute o programa:
 python soma.py
 
 
