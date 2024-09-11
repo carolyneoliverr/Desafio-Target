@@ -26,7 +26,6 @@ Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em u
    ```sh
    git clone https://github.com/carolyneoliverr/tarefas-programacao.git
 2. Navegue até o diretório do projeto:
-   ```sh
 cd tarefas-programacao
 3. Execute o programa: 
 python contar_letras_a.py
