@@ -12,7 +12,7 @@ Este programa verifica se um número pertence à sequência de Fibonacci. A sequ
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
 Navegue até o diretório do projeto:
-cd tarefas-programacao
+cd Desafio-Target
 Execute o programa:
 python fibonacci.py
 Insira um número quando solicitado.
@@ -26,7 +26,7 @@ Este programa conta a quantidade de letras 'a' (maiúsculas ou minúsculas) em u
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
 2. Navegue até o diretório do projeto:
-cd tarefas-programacao
+cd Desafio-Target
 3. Execute o programa: 
 python contar_letras_a.py
 
@@ -43,7 +43,7 @@ Este programa calcula o valor da variável SOMA após executar um loop específi
    ```sh
    git clone https://github.com/carolyneoliverr/Desafio-Target.git
 Navegue até o diretório do projeto:
-cd tarefas-programacao
+cd Desafio-Target
 Execute o programa:
 python soma.py
 
