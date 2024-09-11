@@ -73,8 +73,13 @@ Esta tarefa envolve descobrir qual interruptor controla qual lâmpada em duas id
 Solução:
 
 Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+
 Desligue o primeiro interruptor e ligue o segundo interruptor.
+
 Vá até a sala das lâmpadas:
+
 A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+
 A lâmpada que estiver quente (mas não acesa) é controlada pelo primeiro interruptor.
+
 A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
